@@ -24,4 +24,4 @@
 
 3. **Interaja com a página:**
    - Clique nos links do menu para navegar entre as seções.
-   - Clique no botão "Ver Certificados" para visualizar seus certificados.
+   - Clique no botão "Ver Certificados" para visualizar os certificados.
